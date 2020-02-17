@@ -1,0 +1,203 @@
+21:50:13 #0 - Successfully started.
+21:50:13 #0 - Cache and cookies are cleared. 
+21:55:51 #0 - Successfully started.
+21:55:51 #0 - Cache and cookies are cleared. 
+21:57:04 #0 - Successfully started.
+21:57:04 #0 - Cache and cookies are cleared. 
+21:57:59 #0 - Successfully started.
+21:57:59 #0 - Cache and cookies are cleared. 
+22:00:29 #0 - Successfully started.
+22:00:29 #0 - Cache and cookies are cleared. 
+22:04:38 #0 - Successfully started.
+22:04:38 #0 - Cache and cookies are cleared. 
+22:06:19 #0 - Successfully started.
+22:06:19 #0 - Cache and cookies are cleared. 
+22:08:24 #0 - Successfully started.
+22:08:24 #0 - Cache and cookies are cleared. 
+22:10:43 #0 - Successfully started.
+22:10:43 #0 - Cache and cookies are cleared. 
+22:17:39 #0 - Successfully started.
+22:17:39 #0 - Cache and cookies are cleared. 
+22:20:12 #0 - Successfully started.
+22:20:12 #0 - Cache and cookies are cleared. 
+22:21:39 #0 - Successfully started.
+22:21:39 #0 - Cache and cookies are cleared. 
+22:25:27 #0 - Successfully started.
+22:25:27 #0 - Cache and cookies are cleared. 
+22:26:09 #0 - Successfully started.
+22:26:09 #0 - Cache and cookies are cleared. 
+22:29:05 #0 - Successfully started.
+22:29:05 #0 - Cache and cookies are cleared. 
+22:30:30 #0 - Successfully started.
+22:30:30 #0 - Cache and cookies are cleared. 
+22:37:49 #0 - Successfully started.
+22:37:49 #0 - Cache and cookies are cleared. 
+22:38:23 #0 - Successfully started.
+22:38:23 #0 - Cache and cookies are cleared. 
+22:38:26 #0 - Failed to wait for url change. Exception:no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64)
+22:38:58 #0 - Successfully started.
+22:38:58 #0 - Cache and cookies are cleared. 
+22:39:32 #0 - Successfully started.
+22:39:33 #0 - Cache and cookies are cleared. 
+22:48:56 #0 - Successfully started.
+22:48:56 #0 - Cache and cookies are cleared. 
+23:00:03 #0 - Successfully started.
+23:00:04 #0 - Cache and cookies are cleared. 
+23:01:05 #0 - Successfully started.
+23:01:05 #0 - Cache and cookies are cleared. 
+23:02:44 #0 - Successfully started.
+23:02:44 #0 - Cache and cookies are cleared. 
+23:04:38 #0 - Successfully started.
+23:04:38 #0 - Cache and cookies are cleared. 
+23:09:07 #0 - Successfully started.
+23:09:07 #0 - Cache and cookies are cleared. 
+23:11:01 #0 - Successfully started.
+23:11:01 #0 - Cache and cookies are cleared. 
+23:17:19 #0 - Successfully started.
+23:17:20 #0 - Cache and cookies are cleared. 
+23:17:49 #0 - Successfully started.
+23:17:49 #0 - Cache and cookies are cleared. 
+23:17:59 #0 - Failed to wait for url change. Exception:no such window: window was already closed
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64)
+23:22:56 #0 - Successfully started.
+23:22:56 #0 - Cache and cookies are cleared. 
+23:23:41 #0 - Successfully started.
+23:23:41 #0 - Cache and cookies are cleared. 
+23:25:30 #0 - Successfully started.
+23:25:30 #0 - Cache and cookies are cleared. 
+23:28:11 #0 - Successfully started.
+23:28:11 #0 - Cache and cookies are cleared. 
+23:30:51 #0 - Successfully started.
+23:30:51 #0 - Cache and cookies are cleared. 
+23:34:18 #0 - Successfully started.
+23:34:18 #0 - Cache and cookies are cleared. 
+23:41:35 #0 - Successfully started.
+23:41:35 #0 - Cache and cookies are cleared. 
+23:46:12 #0 - Successfully started.
+23:46:12 #0 - Cache and cookies are cleared. 
+23:48:41 #0 - Successfully started.
+23:48:41 #0 - Cache and cookies are cleared. 
+23:49:32 #0 - Successfully started.
+23:49:32 #0 - Cache and cookies are cleared. 
+23:51:13 #0 - Successfully started.
+23:51:13 #0 - Cache and cookies are cleared. 
+23:53:55 #0 - Successfully started.
+23:53:55 #0 - Cache and cookies are cleared. 
+23:59:51 #0 - Successfully started.
+23:59:51 #0 - Cache and cookies are cleared. 
+00:03:26 #0 - Successfully started.
+00:03:27 #0 - Cache and cookies are cleared. 
+00:06:29 #0 - Successfully started.
+00:06:29 #0 - Cache and cookies are cleared. 
+00:09:55 #0 - Successfully started.
+00:09:56 #0 - Cache and cookies are cleared. 
+00:10:56 #0 - Successfully started.
+00:10:57 #0 - Cache and cookies are cleared. 
+00:12:09 #0 - Successfully started.
+00:12:09 #0 - Cache and cookies are cleared. 
+00:24:26 #0 - Successfully started.
+00:24:27 #0 - Cache and cookies are cleared. 
+00:31:20 #0 - Successfully started.
+00:31:20 #0 - Cache and cookies are cleared. 
+00:34:57 #0 - Successfully started.
+00:34:57 #0 - Cache and cookies are cleared. 
+00:37:01 #0 - Successfully started.
+00:37:01 #0 - Cache and cookies are cleared. 
+00:43:49 #0 - Successfully started.
+00:43:49 #0 - Cache and cookies are cleared. 
+00:52:38 #0 - Successfully started.
+00:52:38 #0 - Cache and cookies are cleared. 
+00:54:56 #0 - Successfully started.
+00:54:57 #0 - Cache and cookies are cleared. 
+00:55:56 #0 - Failed to wait for url change. Exception:chrome not reachable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64) (100)
+01:55:14 #0 - Successfully started.
+01:55:14 #0 - Cache and cookies are cleared. 
+02:09:58 #0 - Successfully started.
+02:09:58 #0 - Cache and cookies are cleared. 
+02:11:49 #0 - Successfully started.
+02:11:49 #0 - Cache and cookies are cleared. 
+02:16:13 #0 - Successfully started.
+02:16:14 #0 - Cache and cookies are cleared. 
+02:19:14 #0 - Successfully started.
+02:19:15 #0 - Cache and cookies are cleared. 
+02:22:14 #0 - Successfully started.
+02:22:16 #0 - Cache and cookies are cleared. 
+02:25:51 #0 - Successfully started.
+02:25:52 #0 - Cache and cookies are cleared. 
+02:55:03 #0 - Successfully started.
+02:55:04 #0 - Cache and cookies are cleared. 
+03:00:03 #0 - Successfully started.
+03:00:04 #0 - Cache and cookies are cleared. 
+03:02:51 #0 - Successfully started.
+03:02:52 #0 - Cache and cookies are cleared. 
+03:06:13 #0 - Successfully started.
+03:06:15 #0 - Cache and cookies are cleared. 
+03:08:45 #0 - Successfully started.
+03:08:46 #0 - Cache and cookies are cleared. 
+03:17:41 #0 - Successfully started.
+03:17:42 #0 - Cache and cookies are cleared. 
+03:19:40 #0 - Successfully started.
+03:19:42 #0 - Cache and cookies are cleared. 
+03:20:49 #0 - Successfully started.
+03:21:41 #0 - Successfully started.
+03:21:43 #0 - Cache and cookies are cleared. 
+03:23:41 #0 - Successfully started.
+03:23:42 #0 - Cache and cookies are cleared. 
+03:26:01 #0 - Successfully started.
+03:26:02 #0 - Cache and cookies are cleared. 
+03:26:34 #0 - Successfully started.
+03:26:35 #0 - Cache and cookies are cleared. 
+03:36:36 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+03:36:38 #0 - Successfully started.
+03:36:39 #0 - Cache and cookies are cleared. 
+03:36:42 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+03:36:44 #0 - Successfully started.
+03:36:45 #0 - Cache and cookies are cleared. 
+03:37:40 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+03:37:42 #0 - Successfully started.
+03:37:43 #0 - Cache and cookies are cleared. 
+03:46:04 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+03:46:06 #0 - Successfully started.
+03:46:07 #0 - Cache and cookies are cleared. 
+03:48:18 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+03:48:20 #0 - Successfully started.
+03:48:22 #0 - Cache and cookies are cleared. 
+11:01:24 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+11:01:26 #0 - Successfully started.
+11:01:27 #0 - Cache and cookies are cleared. 
+08:42:28 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+08:42:33 #0 - Fail to start chrome.exe. Please make sure any other chrome windows are not opened.
+08:42:51 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+08:43:09 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+08:43:14 #0 - Fail to start chrome.exe. Please make sure any other chrome windows are not opened.
+08:43:26 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
+08:43:28 #0 - Fail to start chrome.exe. Please make sure any other chrome windows are not opened.
+08:43:28 Object reference not set to an instance of an object.
+   at GPwdBot.IGoogle.Quit() in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\IGoogle.cs:line 635
+   at GPwdBot.Google.finish_work(String msg, Boolean ok) in G:\Freelancer\20190114_c#_canada\XLS_BOT\XBot\XBot\Google.cs:line 51
